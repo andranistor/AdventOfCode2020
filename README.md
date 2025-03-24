@@ -1,3 +1,3 @@
-# AdventOfCode2020
+## Advent of Code (2020)
 
-Each day on December 2020 there is on <a href="https://adventofcode.com/" target="_blank" rel="noreferrer">Advent of Code</a> a task to solve. 
+[Advent of Code](https://adventofcode.com/2020) is an Advent calendar of small programming puzzles for a variety of skill levels. 
